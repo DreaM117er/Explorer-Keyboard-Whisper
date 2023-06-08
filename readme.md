@@ -1,7 +1,6 @@
 # Explorer Keyboard Whisper 探索者3號
 
-
-
+![](pic/0.png)
 
 ## 前言
 
