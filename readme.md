@@ -1,6 +1,8 @@
 # Explorer Keyboard Whisper 探索者3號
 
-![](pic/0.png)
+![7x4](pic/0.png)
+![6x4](pic/1.png)
+![6x3](pic/2.png)
 
 ## 前言
 
@@ -25,7 +27,11 @@
   - 1x、2x、3x、4x。
   - 厚度：2mm、3mm
 - 多功能底板。
+  - 7x4。
+  - 6x4。
+  - 6x3。
 - 主控保護板。
-- 定位MCU的PCB（開發中）
-- 1x、2x、3x、4x直列PCB（開發中）
+- 定位MCU的PCB。
+- 1x、2x、3x、4x直列PCB（開發中）。
+- MX用彈簧機構。
 
